@@ -1,4 +1,4 @@
-﻿// @author LarsVomMars
+﻿/// @author LarsVomMars
 // https://github.com/LarsVomMars/Checkboxes
 
 using System;
